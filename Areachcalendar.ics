@@ -1,0 +1,794 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+X-WR-CALNAME:Calendar
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:16010101T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:GMT Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DESCRIPTION:This is for our monthly WP2 meetings.\n\n\n\n__________________
+ ______________________________________________________________\nMicrosoft 
+ Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>\nJoin the mee
+ ting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDI2YmYzZT
+ UtODZmOS00NGIzLWFmMmUtZTE3YjRiYjlmZDIx%40thread.v2/0?context=%7b%22Tid%22%
+ 3a%225e2e19eb-9c53-4313-b6b2-505d5a8db202%22%2c%22Oid%22%3a%22e4798249-72b
+ 4-44a0-8b87-0f33f9c3c89f%22%7d>\nMeeting ID: 327 243 748 503\nPasscode: h3
+ e7zz\n________________________________\nFor organizers: Meeting options<ht
+ tps://teams.microsoft.com/meetingOptions/?organizerId=e4798249-72b4-44a0-8
+ b87-0f33f9c3c89f&tenantId=5e2e19eb-9c53-4313-b6b2-505d5a8db202&threadId=19
+ _meeting_ZDI2YmYzZTUtODZmOS00NGIzLWFmMmUtZTE3YjRiYjlmZDIx@thread.v2&messag
+ eId=0&language=en-US> | Reset dial-in PIN<https://dialin.teams.microsoft.c
+ om/usp/pstnconferencing>\n________________________________________________
+ ________________________________\n
+RRULE:FREQ=MONTHLY;UNTIL=20250806T080000Z;INTERVAL=1;BYDAY=1WE
+UID:040000008200E00074C5B7101A82E008000000006996B173F780DA01000000000000000
+ 01000000000D4D50A0D083D48A74C668458255679
+SUMMARY:FEASTS - WP2 
+DTSTART;TZID=W. Europe Standard Time:20250101T100000
+DTEND;TZID=W. Europe Standard Time:20250101T113000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:4
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:4
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E008000000006996B173F780DA01000000000000000
+ 01000000000D4D50A0D083D48A74C668458255679
+RECURRENCE-ID;TZID=W. Europe Standard Time:20250101T100000
+SUMMARY:FEASTS - WP2 
+DTSTART;TZID=W. Europe Standard Time:20250108T100000
+DTEND;TZID=W. Europe Standard Time:20250108T113000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:4
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:4
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000D0FAC36C0761DB01000000000000000
+ 010000000D00B414EB33AD2498FDE2496383F33BE
+SUMMARY:sestanek aco
+DTSTART;TZID=Central Europe Standard Time:20250108T100000
+DTEND;TZID=Central Europe Standard Time:20250108T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:2nl5
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000D0E13933C34FDB01000000000000000
+ 010000000C067AF9BCC3D034C9D06086DAC90362A
+SUMMARY:Kick-off sestanek za projekt VLDL cikel
+DTSTART;TZID=Central Europe Standard Time:20250108T121500
+DTEND;TZID=Central Europe Standard Time:20250108T141500
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:2N20
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dragi sodelavke in sodelavci\,\n\nLepo vabljeni na tedenske ses
+ tanke IBV.\n\nZ njimi bomo začeli v četrtek\, 9. januarja ob 8.00\, kar 
+ bo fiksen termin potem tudi za naprej. Prostora žal ne moremo fikso rezer
+ virati\, ampak za začetek bo to potekalo v prostoru 2N2.\n\nSplošna agen
+ da je za enkrat naslednja:\n\n  *   ograniziranost znotraj IBV (odgovornos
+ ti in splošna logistika za gladek potek dela\, čistilne akcije\, itd.)\n
+   *   tedenski pregled dela po projektih (realizacija tedenskega plana iz 
+ prejšnjega sestanka\, plan za naslednji teden\, izzivi in težave\, ki po
+ trebujejo diskusijo)\n  *   roki in dogodki za tekoči/naslednji mesec\n\n
+ Razen zaradi opravičljivih razlogov (bolniška\, dopust\, izmenjava v dru
+ gem časovnem pasu\, itd) je udeležba obvezna. Sestanke bomo poskušali i
+ zvesti učinkovito v 1 uri\, zato bodimo točni.\n\nLp\, Boštjan\n
+RRULE:FREQ=WEEKLY;UNTIL=20250807T061500Z;INTERVAL=1;BYDAY=TH;WKST=MO
+UID:040000008200E00074C5B7101A82E00800000000F052E1442C51DB01000000000000000
+ 010000000F565EADC0DA1B642BBB57DA5C1CEA3C6
+SUMMARY:tedenski sestanek IBV
+DTSTART;TZID=Central Europe Standard Time:20250109T081500
+DTEND;TZID=Central Europe Standard Time:20250109T093000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:2N2
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ta termin se mi je izmuznil iz koledarja…velja pa isto kot pr
+ i ostalih terminih.\n
+UID:040000008200E00074C5B7101A82E00800000000202D6E462F51DB01000000000000000
+ 01000000065B7FCC490A79C41BDC0622B6130B65E
+SUMMARY:čistilna akcija
+DTSTART;TZID=Central Europe Standard Time:20250109T090000
+DTEND;TZID=Central Europe Standard Time:20250109T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dear all\,\nIPANEMA consortium meeting is scheduled for January
+  13th at 11am CET\nHere is a zoom link: https://us06web.zoom.us/j/82179068
+ 126?pwd=riAPX9pj4W1VTaEDHz8OqaRYk6NFzK.1\n\nI'll be sending the agenda soo
+ n.\n\nBest\nIvana\n\n
+UID:040000008200E00074C5B7101A82E00800000000E071560BAE61DB01000000000000000
+ 010000000BF12895E23F37A48A67491D576977052
+SUMMARY:Meeting Ipanema
+DTSTART;TZID=Central Europe Standard Time:20250113T110000
+DTEND;TZID=Central Europe Standard Time:20250113T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000505B6AA2A565DB01000000000000000
+ 010000000731F356103CA654EA6C894BC943A0447
+SUMMARY:Sestanek glede oddaje naloge - Nejc
+DTSTART;TZID=Central Europe Standard Time:20250113T120000
+DTEND;TZID=Central Europe Standard Time:20250113T130000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:MF - 1NL6
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000005F33064B2767DB01000000000000000
+ 0100000004CB68F16943EDE489B917E431DC485DA
+SUMMARY:Krajši pogovor glede trenutnega stanja in kratkoročnih načrtov
+DTSTART;TZID=Central Europe Standard Time:20250115T100000
+DTEND;TZID=Central Europe Standard Time:20250115T103000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:2NL5
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hej\,\n\nPošiljam vabilo na sestanek za rač opremo. Konkretno
+  se moramo pomenit o:\n\n\n  *   prenosu in shranjevanju velikih podatkov\
+ , ki jih generiramo na nano CTju in Leici\n  *   obdelavi velikih podatkov
+ \, ki jih generiramo na nano CT\, Leici in drugih sistemih\n  *   delovni 
+ postavitvi za Tomaža\n\nLP\, B\n
+UID:040000008200E00074C5B7101A82E00800000000D021B96C9B65DB01000000000000000
+ 0100000009F86F81F966C7948A12973D865BB4609
+SUMMARY:posvet računalniška oprema
+DTSTART;TZID=Central Europe Standard Time:20250116T093000
+DTEND;TZID=Central Europe Standard Time:20250116T100000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:3NL7
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hej sodelavci. V pon. 20. januarja so se iz Anton Paar-ja najav
+ ili na obisk pri nas. Če bi koga zanimalo.\n\nLp\, Boštjan\n\n-----Origi
+ nal Appointment-----\nFrom: Rejec\, Matjaz <matjaz.rejec@anton-paar.com>\n
+ Sent: Thursday\, January 9\, 2025 10:02 AM\nTo: Rejec\, Matjaz\; Boštjan 
+ Vihar\nSubject: Anton Paar: predsatvitev analitike za biomedicinske aplika
+ cije\nWhen: ponedeljek\, 20. januar 2025 11:00-12:00 (UTC+01:00) Beograd\,
+  Bratislava\, Budimpešta\, Ljubljana\, Praga.\nWhere: Taborska ulica 8\n\
+ nYou don't often get email from matjaz.rejec@anton-paar.com<mailto:matjaz.
+ rejec@anton-paar.com>. Learn why this is important<https://aka.ms/LearnAbo
+ utSenderIdentification>\nPozdravljeni dr. Vihar\,\n\nKakor dogovorjeno po
+ šiljam predlog za srečanje v ponedeljek 20.1. ob 11 uri.\n\nHvaležen bo
+ m za potrditev in se veselim srečanja.\n\nLep pozdrav\n\nMatjaž Rejec\nM
+ aterial characterization\n\nAnton Paar d.o.o.\nTbilisijska 57 b\n1000 Ljub
+ ljana\nSlovenia\nT: +386 - 1 888 - 92 - 37\nM: +386 - 40 - 835 - 385\nwww.
+ anton-paar.com<https://www.anton-paar.com/website>\n\n\n [image-2024-12-2_
+ 10-46-54]\n\nRegistry Court: District Court in Ljubljana\, 7189192000 VAT 
+ ID No.: SI93321490\n
+UID:040000008200E00074C5B7101A82E00800000000B00F75727D62DB01000000000000000
+ 010000000FE094C39EEFB6149871942FA38C45875
+SUMMARY:Anton Paar: predsatvitev analitike za biomedicinske aplikacije
+DTSTART;TZID=Central Europe Standard Time:20250120T110000
+DTEND;TZID=Central Europe Standard Time:20250120T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Taborska ulica 8
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pozdravljeni Jernej.\n\nZahvaljujemo se vam za čas\, ki ste ga
+  po dogodku ScienceBeat namenili za pogovor z nami. Z veseljem sporočamo\
+ , da vas vabimo na razgovor za delovno mesto v oddelku MS&T v podjetju San
+ doz | Lek\, ki bo potekal preko aplikacije Microsoft Teams. Razgovor bomo\
+ , zaradi nepričakovanih okoliščin\, ponovno prestavili.\n\nNa klicu bo 
+ prisoten:\n\n  *   Robert Mencigar (Manufacturing Unit Head)\n\nNovi predl
+ agani termin je torek\, 21.01.2025\, ob 08:30 uri.\n\nPodrobneje se bomo d
+ otaknili vaših izkušenj\, spretnosti in potencialnih izzivov\, s katerim
+ i se lahko srečate. Poleg tega boste imeli priložnost zastaviti vprašan
+ ja o razpisanem delovnem mestu\, naši kulturi in podjetju.  Na klic se bo
+ ste lahko povezali preko spodnje povezave.\n\nProsimo\, da z odzivom na to
+  sporočilo potrdite prisotnost na srečanju.\n\nCenimo vaš čas in zanim
+ anje.\n\n\nS prijaznimi pozdravi\,\n\nAjda Razdevšek\nOddelek za pridobiv
+ anje talentov\nTalent Acquisition Department\n\n*Please note: We support a
+  flexible work culture at Sandoz\, which is great!\nI may be sending this 
+ message outside regular working hours because that works for me.\nBut I do
+  not expect that you will read\, respond to or act on it outside of regula
+ r hours.\n\nLek farmacevtska družba d.d.\, Verovškova 57\, 1526 Ljubljan
+ a\, št.reg.vpisa: 1/36542/00 pri Okrožnem sodišču v Ljubljani\, osnovn
+ i kapital: 48.402.003\,00 EUR.\nLek Pharmaceuticals d.d.\, Verovškova 57\
+ , 1526 Ljubljana\, entry number: 1/36542/00\, District Court of Ljubljana\
+ , share capital: 48.402.003\,00 EUR.\n\n[A blue and black text  Descriptio
+ n automatically generated]<https://www.lek.si/>\n\n_______________________
+ _________________________________________________________\nMicrosoft Teams
+  Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>\nJoin the meeting 
+ now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmUxNWZhY2EtZDJ
+ iNC00ZGU2LThmNDItN2I0NGM2NWU5NTg3%40thread.v2/0?context=%7b%22Tid%22%3a%22
+ f35a6974-607f-47d4-82d7-ff31d7dc53a5%22%2c%22Oid%22%3a%22b1696669-ca83-431
+ f-9b65-c6bc1b80397f%22%7d>\nMeeting ID: 330 740 592 373\nPasscode: fx3de3S
+ B\n________________________________\nJoin on a video conferencing device\n
+ Tenant key: novartis@m.webex.com<mailto:novartis@m.webex.com>\nVideo ID: 1
+ 27 191 082 5\nMore info<https://www.webex.com/msteams?confid=1271910825&te
+ nantkey=novartis&domain=m.webex.com>\nFor organizers: Meeting options<http
+ s://teams.microsoft.com/meetingOptions/?organizerId=b1696669-ca83-431f-9b6
+ 5-c6bc1b80397f&tenantId=f35a6974-607f-47d4-82d7-ff31d7dc53a5&threadId=19_m
+ eeting_MmUxNWZhY2EtZDJiNC00ZGU2LThmNDItN2I0NGM2NWU5NTg3@thread.v2&messageI
+ d=0&language=en-US>\n_____________________________________________________
+ ___________________________\n\n
+UID:040000008200E00074C5B7101A82E00800000000A095A15F4551DB01000000000000000
+ 010000000F3E74F27B5793A49B1B11305CD1F33A5
+SUMMARY:Vabilo na razgovor-oddelek MS&T\, Jernej Vajda
+DTSTART;TZID=Central Europe Standard Time:20250121T083000
+DTEND;TZID=Central Europe Standard Time:20250121T090000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:3
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:3
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dear all\,\n\nLooks like the best time to meet is next Wednesda
+ y\, January 22nd at 9.00. Please find the link for MS teams below.\n\nAll 
+ the best\,\nBoštjan\n____________________________________________________
+ ____________________________\nMicrosoft Teams Need help?<https://aka.ms/Jo
+ inTeamsMeeting?omkt=en-US>\nJoin the meeting now<https://teams.microsoft.c
+ om/l/meetup-join/19%3ameeting_YTc2ODBkMzEtODEyNS00YTgxLWE3OTktYmNiNjUyOTc3
+ Y2Mz%40thread.v2/0?context=%7b%22Tid%22%3a%228ef1464e-28b6-449d-95be-e669e
+ e3d08ac%22%2c%22Oid%22%3a%22b87ccf85-b8a3-4dc8-9114-e9403015a06d%22%7d>\nM
+ eeting ID: 373 772 241 791\nPasscode: 2ku7JG7N\n__________________________
+ ______\nFor organizers: Meeting options<https://teams.microsoft.com/meetin
+ gOptions/?organizerId=b87ccf85-b8a3-4dc8-9114-e9403015a06d&tenantId=8ef146
+ 4e-28b6-449d-95be-e669ee3d08ac&threadId=19_meeting_YTc2ODBkMzEtODEyNS00YTg
+ xLWE3OTktYmNiNjUyOTc3Y2Mz@thread.v2&messageId=0&language=en-US>\n_________
+ _______________________________________________________________________\n\
+ n\n_____________________________________________\nFrom: Boštjan Vihar\nSe
+ nt: Monday\, 13 January 2025 17:00\nTo: Skok\, Kristijan <kristijan.skok@m
+ edunigraz.at>\; Lackner\, Karoline <karoline.lackner@medunigraz.at>\; Wagn
+ er\, Martin <martin.wagner@medunigraz.at>\; Panzitt\, Katrin <katrin.panzi
+ tt@medunigraz.at>\nCc: Uroš Maver <uros.maver@um.si>\; Laura Činč Ćuri
+ ć <laura.cinc@um.si>\; Jernej Vajda <jernej.vajda@um.si>\nSubject: RE: Na
+ no-CT Results\n\nDear Kristijan\, dear all\,\n\nPlease find a link to the 
+ doodle poll here: https://doodle.com/meeting/participate/id/e3EJywQb If we
+  need more timeslots please let me know.\n\nIn the call it would be good t
+ o discuss:\n\n  *   Results of the CT scans we performed on the samples yo
+ u provided and evaluate how the parameters correlate to the quality of the
+  results and determine the approximate boundary conditions for further wor
+ k\n  *   Possibilities for further collaboration (contracts for running pr
+ ojects and joint applications for funding)\n\nBest\,\nBoštjan\n\nFrom: Sk
+ ok\, Kristijan <kristijan.skok@medunigraz.at<mailto:kristijan.skok@medunig
+ raz.at>>\nSent: Sunday\, January 12\, 2025 7:52 PM\nTo: Boštjan Vihar <bo
+ stjan.vihar@um.si<mailto:bostjan.vihar@um.si>>\; Lackner\, Karoline <karol
+ ine.lackner@medunigraz.at<mailto:karoline.lackner@medunigraz.at>>\; Wagner
+ \, Martin <martin.wagner@medunigraz.at<mailto:martin.wagner@medunigraz.at>
+ >\; Panzitt\, Katrin <katrin.panzitt@medunigraz.at<mailto:katrin.panzitt@m
+ edunigraz.at>>\nCc: Uroš Maver <uros.maver@um.si<mailto:uros.maver@um.si>
+ >\; Laura Činč Ćurić <laura.cinc@um.si<mailto:laura.cinc@um.si>>\; Jer
+ nej Vajda <jernej.vajda@um.si<mailto:jernej.vajda@um.si>>\nSubject: Nano-C
+ T Results\n\n\nDear Boštjan\,\n\n\n\nThank you! I also wish you all the b
+ est in the new year.\n\n\n\nRegarding the call\, I suggest we include Mart
+ in (PI on our end) and Katrin as well (I've added them in CC).\n\nI’m aw
+ ay this week but can try to arrange a call via my phone if needed.\n\nCaro
+ lin and Martin have a tighter schedule.\n\n\n\nPerhaps you could send out 
+ a few suggested times and a short agenda for the topics?\n\n\n\nKind regar
+ ds\,\nKristijan\n\n________________________________\nFrom: Boštjan Vihar 
+ <bostjan.vihar@um.si<mailto:bostjan.vihar@um.si>>\nSent: Wednesday\, Janua
+ ry 8\, 2025 3:46 PM\nTo: Lackner\, Karoline\; Skok\, Kristijan\nCc: Uroš 
+ Maver\; Laura Činč Ćurić\; Jernej Vajda\nSubject: RE: [EXT] RE: List o
+ f stains\n\n\nDear Kristijan\, dear Karoline\,\n\n\n\nHappy new year to yo
+ u! I hope it's full of joint success 😊\n\n\n\nWhen would you be availab
+ le for a short call in the next days\, to discuss the results and next ste
+ ps?\n\n\n\nBest\,\n\nBoštjan\n\n\n\nFrom: Lackner\, Karoline <karoline.la
+ ckner@medunigraz.at<mailto:karoline.lackner@medunigraz.at>>\nSent: Friday\
+ , September 20\, 2024 12:13 PM\nTo: Skok\, Kristijan <kristijan.skok@medun
+ igraz.at<mailto:kristijan.skok@medunigraz.at>>\; Boštjan Vihar <bostjan.v
+ ihar@um.si<mailto:bostjan.vihar@um.si>>\nCc: Uroš Maver <uros.maver@um.si
+ <mailto:uros.maver@um.si>>\nSubject: AW: [EXT] RE: List of stains\n\n\n\nD
+ ear Bostjan\,\n\nsounds good. Hope it works!\n\nBest regards\,\n\n\n\nCaro
+ lin Lackner\n\n________________________________\n\nVon: Skok\, Kristijan\n
+ Gesendet: Freitag\, 20. September 2024 11:00:54\nAn: Boštjan Vihar\nCc: U
+ roš Maver\; Lackner\, Karoline\nBetreff: Re: [EXT] RE: List of stains\n\n
+ \n\nDear Boštjan\,\n\n\n\nThank you for the effort!\n\nWe are eagerly awa
+ iting your updates 😊.\n\n\n\nKind regards\, Kristijan\n\n\n\nOn 20 Sept
+  2024 08:38\, Boštjan Vihar <bostjan.vihar@um.si<mailto:bostjan.vihar@um.
+ si>> wrote:\n\nDear all\,\n\n\n\nIt took a while to get things started wit
+ h the staining and scanning of the samples.\n\n\n\nI've cut the samples to
+  smaller pieces and stable scanning is possible within 1.5ml centrifuge tu
+ bes\, wedged between 2 pieces of styrofoam. I've also tried to stain them 
+ using Eosin Y as was done here<https://www.pnas.org/doi/suppl/10.1073/pnas
+ .1720862115>\, however\, I didn't have the exactly same eosin solution and
+  I didn't change the fixation solution to the specified one\, but used the
+  samples from the container Kristijan provided. In any case\, the contrast
+  in the CT scanner wasn't good enough to see any cellular structures (see 
+ attachment – the porous structure that you see is styrofoam and the grey
+  and a bit noisy part is the liver tissue). However\, I was able to get al
+ l the correct reagents so I can prepare the protocol exactly as it was des
+ cribed in the article and try another scanning session next week. Will let
+  you know how it goes.\n\n\n\nAll the best\,\n\nBoštjan\n\n\n\n\n\nFrom: 
+ Skok\, Kristijan <kristijan.skok@medunigraz.at<mailto:kristijan.skok@medun
+ igraz.at>>\nSent: Monday\, August 19\, 2024 3:30 PM\nTo: Uroš Maver <uros
+ .maver@um.si<mailto:uros.maver@um.si>>\; Boštjan Vihar <bostjan.vihar@um.
+ si<mailto:bostjan.vihar@um.si>>\nCc: Lackner\, Karoline <karoline.lackner@
+ medunigraz.at<mailto:karoline.lackner@medunigraz.at>>\nSubject: List of st
+ ains\n\n\n\nDear all\,\n\n\n\nAs we talked about\,  I am attaching a list 
+ of potentially appropriate stains.\n\n\n\nKind regards\,\n\nKristijan\n\n\
+ n
+UID:040000008200E00074C5B7101A82E00800000000004195C98F66DB01000000000000000
+ 01000000077174B7CF1823C4EA7ED463799D199D2
+SUMMARY:Nano-CT Results
+DTSTART;TZID=Central Europe Standard Time:20250122T090000
+DTEND;TZID=Central Europe Standard Time:20250122T100000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n\n\n_________________________________________________________
+ _______________________\nMicrosoft Teams Need help?<https://aka.ms/JoinTea
+ msMeeting?omkt=en-US>\nJoin the meeting now<https://teams.microsoft.com/l/
+ meetup-join/19%3ameeting_OWZjYTg2MWUtMjIyZi00NTcwLThlZjktZTgxNjA4YmQ0Njk4%
+ 40thread.v2/0?context=%7b%22Tid%22%3a%228ef1464e-28b6-449d-95be-e669ee3d08
+ ac%22%2c%22Oid%22%3a%22d514d847-c961-4de8-91c7-824fc733e806%22%7d>\nMeetin
+ g ID: 354 825 697 885\nPasscode: nW69A9tt\n_______________________________
+ _\nFor organizers: Meeting options<https://teams.microsoft.com/meetingOpti
+ ons/?organizerId=d514d847-c961-4de8-91c7-824fc733e806&tenantId=8ef1464e-28
+ b6-449d-95be-e669ee3d08ac&threadId=19_meeting_OWZjYTg2MWUtMjIyZi00NTcwLThl
+ ZjktZTgxNjA4YmQ0Njk4@thread.v2&messageId=0&language=en-US>\n______________
+ __________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E008000000005DAD56A27B66DB01000000000000000
+ 0100000008BD88B5F94914A4696B7E89ECB38E518
+SUMMARY:Sestanek za mikroCT
+DTSTART;TZID=Central Europe Standard Time:20250123T130000
+DTEND;TZID=Central Europe Standard Time:20250123T133000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Zdravo.\n\nSem popravil še ta opomnik in prosim\, da do 25. v 
+ tekočem mesecu izpolnite (še to) evidenco – dostopna v zavihku na Team
+ s: Mesečna evidenca prisotnosti MF_IBV<https://teams.microsoft.com/l/chan
+ nel/19%3A0cacce415e8a486cbf2fe61e7ef5d52e%40thread.skype/tab%3A%3Aa871617a
+ -a0a7-4d6a-bda6-db3d38c0eea6?groupId=801733ca-12aa-43e9-808e-4c87f62042e4&
+ tenantId=8ef1464e-28b6-449d-95be-e669ee3d08ac> 😊\nHvala v naprej.\n\nLp
+ . Uroš.\n\n\n
+RRULE:FREQ=MONTHLY;UNTIL=20250725T100000Z;INTERVAL=1;BYMONTHDAY=25
+UID:040000008200E00074C5B7101A82E0080000000090D30B122F0AD001000000000000000
+ 01000000004264D05680DC34C90207991D1B09BC6
+SUMMARY:Dostava evidence prisotnosti v FRS
+DTSTART;TZID=Central Europe Standard Time:20250125T120000
+DTEND;TZID=Central Europe Standard Time:20250125T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:2
+LOCATION:MF - dekanat
+X-MICROSOFT-CDO-APPT-SEQUENCE:2
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Some people who received this message don't often get email fro
+ m frederico.ferreira@tecnico.ulisboa.pt. Learn why this is important<https
+ ://aka.ms/LearnAboutSenderIdentification>\n\nDear partners\,\n\n\n\nThe ne
+ xt WP3 monthly meeting will take place next Wednesday 27th November at 12:
+ 00 CET.\n\n\n\nProposed agenda:\n\n\n\n1. Informations\n\n2. Progress repo
+ rt\n\n     a) Task 3.2 - Animal-free media\n\n     b) Task 3.4 - Process D
+ esign\n\n3. Other points\n\n\n\nRegards\,\n\nTeresa\n\n\n\n_______________
+ _________________________________________________________________\nMicroso
+ ft Teams Precisa de ajuda?<https://aka.ms/JoinTeamsMeeting?omkt=pt-PT>\nPa
+ rticipar na reunião agora<https://teams.microsoft.com/l/meetup-join/19%3a
+ meeting_YWFjNDU2NDQtMjhmNy00MTk3LWIzNWMtNDE4OGYyM2U3NmNh%40thread.v2/0?con
+ text=%7b%22Tid%22%3a%220bfa8500-b1f2-4566-baf1-6f59370893e7%22%2c%22Oid%22
+ %3a%22eeba9b56-fa5a-4608-bedb-5f49e0f07730%22%7d>\nID da Reunião: 367 862
+  124 983\nCódigo de acesso: Ff3Sm6MR\n________________________________\nP
+ ara organizadores: Opções de reunião<https://teams.microsoft.com/meetin
+ gOptions/?organizerId=eeba9b56-fa5a-4608-bedb-5f49e0f07730&tenantId=0bfa85
+ 00-b1f2-4566-baf1-6f59370893e7&threadId=19_meeting_YWFjNDU2NDQtMjhmNy00MTk
+ 3LWIzNWMtNDE4OGYyM2U3NmNh@thread.v2&messageId=0&language=pt-PT>\n_________
+ _______________________________________________________________________\n
+RRULE:FREQ=MONTHLY;UNTIL=20250730T100000Z;INTERVAL=1;BYDAY=-1WE
+UID:040000008200E00074C5B7101A82E00800000000272C3907193CDB01000000000000000
+ 0100000008763FCCD1FBE8747BF798AEBC6D01B7F
+SUMMARY:WP3 - monthly meeting
+DTSTART;TZID=GMT Standard Time:20250129T110000
+DTEND;TZID=GMT Standard Time:20250129T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000B07D12B7BE6CDB01000000000000000
+ 01000000087CCEC3FC0F3C449B493AF20650CAFD4
+SUMMARY:sestanek FEASTS\, Boštjan in Nejc
+DTSTART;TZID=Central Europe Standard Time:20250130T090000
+DTEND;TZID=Central Europe Standard Time:20250130T100000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:3NL7
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dragi sodelavke in sodelavci\,\n\nLepo vabljeni na mesečne či
+ stilne akcije IBV\, ki bodo potekale vsak 1. četrtek v mesecu po tedenske
+ m sestanku. Udeležba je (razen zaradi opravičljivih razlogov) obvezna\, 
+ zato v tem času ne načrtujte poskusov ali drugega dela. Glede razporedit
+ ve dela bi predvidoma enkrat dogovorili\, nato pa naj to velja.\n\nSe vidi
+ mo :)\n
+RRULE:FREQ=MONTHLY;UNTIL=20250807T073000Z;INTERVAL=1;BYDAY=1TH
+UID:040000008200E00074C5B7101A82E0080000000010267CAA2E51DB01000000000000000
+ 01000000040334FDA226C5D48A49FA3DAEB764252
+SUMMARY:mesečno čiščenje laboratorijev
+DTSTART;TZID=Central Europe Standard Time:20250206T093000
+DTEND;TZID=Central Europe Standard Time:20250206T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:laboratoriji IBV
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000308E51552476DB01000000000000000
+ 010000000668D19961CB08A41B1F33322DFAFA683
+SUMMARY:Predavanje Jovana Glušac (BioSense)
+DTSTART;TZID=Central Europe Standard Time:20250213T093000
+DTEND;TZID=Central Europe Standard Time:20250213T103000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:2N2
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pozdravljene članice in člani projektne skupine InStent\,\n\n
+ \n\nzahvaljujem se vam za vaše glasove pri izbiri termina prvega srečanj
+ a projektne skupine. Izbrani datum uvodnega sestanka je četrtek\, 13. feb
+ ruar 2025\, ob 13.00\, z uporabo storitve Teams.\n\nPredlagani dnevni red 
+ sestanka:\n\n  1.  Organizacijske zadeve\n  2.  Načrt dela za leto 2025\n
+   3.  Razprava\n\nVeselim se srečanja z vami in uspešnega sodelovanja.\n
+ \nS prijaznimi pozdravi\,\n\nJanez\n\n\n\n________________________________
+ ________________________________________________\nMicrosoft Teams Ali potr
+ ebujete pomoč?<https://aka.ms/JoinTeamsMeeting?omkt=sl-SI>\nPridružite s
+ e srečanju zdaj<https://teams.microsoft.com/l/meetup-join/19%3arsNzjpl6eD
+ z5w8BmEWAs2eD0Q4f5Gbxmw2nO-_I7jRU1%40thread.tacv2/1738703064791?context=%7
+ b%22Tid%22%3a%228ef1464e-28b6-449d-95be-e669ee3d08ac%22%2c%22Oid%22%3a%22b
+ 88bb06b-cb44-4adf-800d-e5a850723ea2%22%7d>\nID srečanja: 311 874 784 026\
+ nGeslo: Ka6rr3zS\n________________________________\nZa organizatorje: Mož
+ nosti srečanja<https://teams.microsoft.com/meetingOptions/?organizerId=b8
+ 8bb06b-cb44-4adf-800d-e5a850723ea2&tenantId=8ef1464e-28b6-449d-95be-e669ee
+ 3d08ac&threadId=19_rsNzjpl6eDz5w8BmEWAs2eD0Q4f5Gbxmw2nO-_I7jRU1@thread.tac
+ v2&messageId=1738703064791&language=sl-SI>\n______________________________
+ __________________________________________________\n
+UID:040000008200E00074C5B7101A82E0080000000038CAEB5E4877DB01000000000000000
+ 01000000069F49F31AD48794F90382D1310C1C757
+SUMMARY:1. sestanek projektne skupine InStent (Kickoff Meeting)
+DTSTART;TZID=Central Europe Standard Time:20250213T130000
+DTEND;TZID=Central Europe Standard Time:20250213T140000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000ABB63D45A678DB01000000000000000
+ 010000000899EDF71B77CDD4A898D2ECEBE2E2EB2
+SUMMARY:Amsterdam
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250220
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250208T124007Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+END:VCALENDAR
